@@ -1,7 +1,12 @@
 aid: jarden
-url: https://raw.githubusercontent.com/api-evangelist/jarden/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/jarden/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.jarden.com
+description: >-
+  Jarden Corporation was a global consumer products company that owned and marketed
+  brands across outdoor solutions, consumer solutions, branded consumables, and process
+  solutions before merging with Newell Rubbermaid.
