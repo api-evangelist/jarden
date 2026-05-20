@@ -24,6 +24,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/jarden-digital
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/jarden-corporation
   - type: Website
     name: Newell Brands
     description: Successor company following the 2016 acquisition of Jarden.
