@@ -9,6 +9,17 @@ description: >-
   the combined entity rebranded as Newell Brands. As such, Jarden no longer
   exists as an independent company and does not maintain its own APIs.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
