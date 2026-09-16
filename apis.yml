@@ -1,13 +1,11 @@
 aid: jarden
 name: Jarden
-description: >-
-  Jarden Corporation was an American consumer products conglomerate that owned
-  brands across Outdoor Solutions (Coleman, K2 Sports, Marmot, Rawlings),
-  Consumer Solutions (Crock-Pot, Mr. Coffee, Sunbeam, Oster, FoodSaver),
-  Branded Consumables (Yankee Candle, First Alert, Diamond Match), and Process
-  Solutions. Jarden was acquired by Newell Rubbermaid on April 15, 2016, with
-  the combined entity rebranded as Newell Brands. As such, Jarden no longer
-  exists as an independent company and does not maintain its own APIs.
+description: Jarden Corporation was an American consumer products conglomerate that owned brands across
+  Outdoor Solutions (Coleman, K2 Sports, Marmot, Rawlings), Consumer Solutions (Crock-Pot, Mr. Coffee,
+  Sunbeam, Oster, FoodSaver), Branded Consumables (Yankee Candle, First Alert, Diamond Match), and Process
+  Solutions. Jarden was acquired by Newell Rubbermaid on April 15, 2016, with the combined entity rebranded
+  as Newell Brands. As such, Jarden no longer exists as an independent company and does not maintain its
+  own APIs.
 type: Index
 deliveryModel:
   model: unknown
@@ -35,34 +33,34 @@ position: Consuming
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jarden.png
 tags:
-  - Consumer Products
-  - Defunct
-  - Newell Brands
-  - Conglomerate
-  - Fortune 500
-url: >-
-  https://raw.githubusercontent.com/api-evangelist/jarden/refs/heads/main/apis.yml
+- Consumer Products
+- Defunct
+- Newell Brands
+- Conglomerate
+- Fortune 500
+url: https://raw.githubusercontent.com/api-evangelist/jarden/refs/heads/main/apis.yml
 created: '2026-03-24'
-modified: '2026-04-28'
+modified: '2026-09-15'
 specificationVersion: '0.23'
 apis: []
 common:
-  - type: DomainSecurity
-    url: security/jarden-domain-security.yml
-  - type: GitHubOrganization
-    url: https://github.com/jarden-digital
-  - type: LinkedIn
-    url: https://www.linkedin.com/company/jarden-corporation
-  - type: Website
-    name: Newell Brands
-    description: Successor company following the 2016 acquisition of Jarden.
-    url: https://www.newellbrands.com
-  - type: Wikipedia
-    name: Jarden Wikipedia
-    description: Historical reference for Jarden Corporation.
-    url: https://en.wikipedia.org/wiki/Jarden
+- type: DomainSecurity
+  url: security/jarden-domain-security.yml
+- type: GitHubOrganization
+  url: https://github.com/jarden-digital
+- type: LinkedIn
+  url: https://www.linkedin.com/company/jarden-corporation
+- type: Website
+  name: Newell Brands
+  description: Successor company following the 2016 acquisition of Jarden.
+  url: https://www.newellbrands.com
+- type: Wikipedia
+  name: Jarden Wikipedia
+  description: Historical reference for Jarden Corporation.
+  url: https://en.wikipedia.org/wiki/Jarden
 maintainers:
-  - FN: Kin Lane
-    email: kin@apievangelist.com
+- FN: Kin Lane
+  email: kin@apievangelist.com
 x-parent: newell-brands
 x-relationship: acquisition
+x-status: defunct
