@@ -1,7 +1,9 @@
 ---
 title: HEALWELL Unveils Strategic Changes to Executive ...
 url: https://www.newsfilecorp.com/release/249467/HEALWELL-Unveils-Strategic-Changes-to-Executive-Leadership-Team-to-Drive-the-Next-Phase-of-Integration-Growth-and-Shareholder-Value-Creation
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Jarden" press release artificial intelligence'
 position: 2
 source: serpapi-google

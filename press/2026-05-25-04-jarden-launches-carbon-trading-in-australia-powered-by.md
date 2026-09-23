@@ -1,7 +1,9 @@
 ---
 title: Jarden launches carbon trading in Australia, powered by ...
 url: https://www.bobsguide.com/press-release/jarden-launches-carbon-trading-in-australia-powered-by-tecassas-crossfire/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Jarden" press release artificial intelligence'
 position: 4
 source: serpapi-google
