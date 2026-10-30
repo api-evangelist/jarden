@@ -1,4 +1,4 @@
-# Jarden (jarden)
+# Jarden
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,36 +64,45 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
+
 Jarden Corporation was an American consumer products conglomerate that owned brands across Outdoor Solutions (Coleman, K2 Sports, Marmot, Rawlings), Consumer Solutions (Crock-Pot, Mr. Coffee, Sunbeam, Oster, FoodSaver), Branded Consumables (Yankee Candle, First Alert, Diamond Match), and Process Solutions. Jarden was acquired by Newell Rubbermaid on April 15, 2016, with the combined entity rebranded as Newell Brands. As such, Jarden no longer exists as an independent company and does not maintain its own APIs.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/jarden/refs/heads/main/apis.yml)
+**Areas:** Consumer Products · Defunct · Newell Brands · Conglomerate · Fortune 500
 
-## Scope
+## Jarden on APIs.io (historical record)
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Jarden is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/jarden/](https://apis.io/providers/jarden/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### Published properties
 
- - Consumer Products, Defunct, Newell Brands, Conglomerate
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Jarden Domain Security](https://apis.io/security/jarden/jarden-domain-security/)
 
-No APIs are maintained for Jarden. The company was absorbed into Newell Brands following the 2016 acquisition.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Newell Brands Website](https://www.newellbrands.com)
-- [Jarden Wikipedia](https://en.wikipedia.org/wiki/Jarden)
+- [Website](https://www.newellbrands.com)
+- [GitHub](https://github.com/jarden-digital)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-**Email:** kin@apievangelist.com
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Jarden: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/jarden/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
